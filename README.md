@@ -1,1 +1,1 @@
-# algorithms-js
+will implement different algorithms for study purpose
